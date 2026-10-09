@@ -19,4 +19,4 @@
 - SolidWorks 부품 설계 및 3D 프린팅
 
 ## 프로젝트 사진
-![프로젝트](project.jpg)
+![프로젝트](project.png)
